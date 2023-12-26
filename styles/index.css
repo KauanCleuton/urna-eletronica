@@ -176,3 +176,7 @@ body {
   font-size: 120px;
 }
 
+.button.disabled {
+  pointer-events: none;
+  opacity: 0.5; 
+}
